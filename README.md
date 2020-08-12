@@ -8,6 +8,11 @@ The twitter post basically wants us to calculate the average steps taken by the 
 
 The code simulates 100000 iterations, and an average of 19 is reached around 60000 iterations.
 The probabilities (serving the  purpose of gates) are hard coded, and similarly the structure of possible jumps is also hardcodeed in two dictionaries.
-YOu can change these (essentially changing the structure of the above image), the iterations, can use multiprocessing to make it faster, since each cursor can be treated as a different object.
 
+You can change these (essentially changing the structure of the above image), the iterations, can use multiprocessing to make it faster, since each cursor can be treated as a different object.
+
+Anyway, this plot is what you get at the end:
+
+
+![](https://github.com/sciencyboi/jumpingcursor/blob/master/chart.png)
 
